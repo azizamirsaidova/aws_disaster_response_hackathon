@@ -1,0 +1,4 @@
+loss_color = {0:'blue', 1:'cyan', 2:'yellow', 3:'magenta', 4:'red'}
+for state in state_names:
+    seg = map.states[state_names.index(state)]
+    poly = Polygon(seg, facecolor=
