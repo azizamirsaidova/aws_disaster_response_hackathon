@@ -1,2 +1,2 @@
-# aws_disaster_response_hackathon
-Tornado Prediction for Amazon Disaster Response Hackathon
+# Tornado Prediction for Amazon Disaster Response Hackathon
+Data is acquired from Kaggle Storm Prediction Center: https://www.kaggle.com/jtennis/spctornado
